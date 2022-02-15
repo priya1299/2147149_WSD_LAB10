@@ -1,0 +1,10 @@
+{"roaster":[
+    {"customer_id":201102,"customer_name":"Priya" ,"customer_phnno":"9808766540" ,"customer_address":"bangalore", "customer_pincode":25001},
+    {"customer_id":201103,"customer_name":"Shikha" ,"customer_phnno":"980887864" ,"customer_address":"husore", "customer_pincode":250091},
+    {"customer_id":201106,"customer_name":"Divya" ,"customer_phnno":"9808987675" ,"customer_address":"punjab", "customer_pincode":250010},
+    {"customer_id":201105,"customer_name":"Sunny" ,"customer_phnno":"9808534334" ,"customer_address":"meerut", "customer_pincode":250017},
+    {"customer_id":201109,"customer_name":"Shiv" ,"customer_phnno":"9805676888" ,"customer_address":"aligarh", "customer_pincode":250015},
+    {"customer_id":201110,"customer_name":"Satyam" ,"customer_phnno":"9808787798" ,"customer_address":"hyderabad", "customer_pincode":25081},
+    {"customer_id":201111,"customer_name":"Pooja" ,"customer_phnno":"9857889988" ,"customer_address":"bangalore", "customer_pincode":25001},
+    {"customer_id":201108,"customer_name":"Sandy" ,"customer_phnno":"9346768788" ,"customer_address":"jhasi", "customer_pincode":25091}
+]}
